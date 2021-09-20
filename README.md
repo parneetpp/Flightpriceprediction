@@ -9,7 +9,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png"></code>
 
 ## Project Overview
--Created a streamlit web application to predict fare of flights
+-Created a streamlit web application to predict fare of flights<br>
 -Tuned hyperparameters using RandomizedSearchCV and GridSearchCV
 
 ## Input 
